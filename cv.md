@@ -1,12 +1,10 @@
 # Artyom Tychshuk
 **Born  in 1991**
 
-***
-
 ### Contact Information:
 Phone: +77026651064\
 Email: artyom.tychshuk@gmail.com\
-GitHub: ympakaloky 
+GitHub: ympakaloky\ 
 ***
 ### Brief Self-Introduction
 I have experience working at a factory. My ability to learn new skills has helped me succeed.
