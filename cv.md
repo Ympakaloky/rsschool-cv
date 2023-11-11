@@ -57,5 +57,5 @@ for (let i = 2; i <= nunmber; i++) {
   ***
 
 ### Languages
-  * English - A2 (Pre-Intermediate), continue to study
-  * Russian - Native
+  * English - A2 (Pre-Intermediate), continue to study.
+  * Russian - Native.
