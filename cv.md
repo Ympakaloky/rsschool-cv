@@ -49,5 +49,5 @@ for (let i = 2; i <= nunmber; i++) {
     * JavaScript/Front-end course (in progress)
 ***
 ### Languages
-  * English - A2 (Pre-Intermediate), continue to study\
+  * English - A2 (Pre-Intermediate), continue to study
   * Russian - Native
