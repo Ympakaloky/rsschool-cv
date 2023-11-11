@@ -1,16 +1,17 @@
 # Artyom Tychshuk
 **Born  in 1991**
+
 ***
 
 ### Contact Information:
 Phone: +77026651064\
 Email: artyom.tychshuk@gmail.com\
-GitHub: ympakaloky
+GitHub: ympakaloky 
 ***
 ### Brief Self-Introduction
 I have experience working at a factory. My ability to learn new skills has helped me succeed.
 
-Using Excel solved a lot of problems, but when that wasn't enough, I started learning programming languages ​​like VBA and Python. This gave me the desire to study further. Learning Java script is new and very interesting for me.
+Using Excel solved a lot of problems, but when that wasn't enough, I started learning programming languages ​​like VBA and Python. This gave me the desire to study further. Learning Java script is new and very interesting for me.\
 ***
 ### Skills
 * JavaScript (in progress)
