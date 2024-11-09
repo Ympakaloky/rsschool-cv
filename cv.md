@@ -1,6 +1,7 @@
 # CV#1. Markdown & Git
 
 Artyom Tychshuk
+
 Email: artyom.tychshuk@gmail.com
 
 Brief Self-Introduction:
